@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "Experience industry-leading noise cancellation with the Sony WH-1000XM5. Features 30 hours of battery life, premium sound quality, and comfortable design for all-day wear.",
+    "price": 349.99,
+    "image": "https://source.unsplash.com/random/900x600/?headphones",
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": 25,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Fitbit Charge 5 Fitness Tracker",
+    "description": "Track your health journey with the advanced Fitbit Charge 5. Monitors ECG, stress levels, heart rate, sleep quality, and activity with a vibrant color display.",
+    "price": 149.99,
+    "image": "https://source.unsplash.com/random/900x600/?fitbit",
+    "category": "Wearables",
+    "rating": 4.6,
+    "stock": 42,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Samsung 65\" QLED 4K Smart TV",
+    "description": "Transform your home entertainment with this Samsung QLED TV featuring Quantum HDR technology for stunning contrast and vibrant colors.",
+    "price": 1299.99,
+    "image": "https://source.unsplash.com/random/900x600/?television",
+    "category": "Electronics",
+    "rating": 4.7,
+    "stock": 15,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "Canon EOS R6 Camera Kit",
+    "description": "Capture professional-quality photos and 4K video with the Canon EOS R6. This full-frame mirrorless camera features in-body stabilization and advanced autofocus.",
+    "price": 2499.99,
+    "image": "https://source.unsplash.com/random/900x600/?camera",
+    "category": "Photography",
+    "rating": 4.9,
+    "stock": 8,
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "Apple MacBook Pro 14\" M3 Pro",
+    "description": "Experience extraordinary performance with the MacBook Pro featuring the M3 Pro chip. Includes a stunning Liquid Retina XDR display and up to 18 hours of battery life.",
+    "price": 1999.99,
+    "image": "https://source.unsplash.com/random/900x600/?macbook",
+    "category": "Computers",
+    "rating": 4.9,
+    "stock": 12,
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "Bose SoundLink Revolve+ II Speaker",
+    "description": "Experience 360° sound with the portable Bose SoundLink Revolve+ II. Features 17 hours of battery life and water resistance for indoor and outdoor use.",
+    "price": 329.99,
+    "image": "https://source.unsplash.com/random/900x600/?speaker",
+    "category": "Audio",
+    "rating": 4.7,
+    "stock": 30,
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "Nintendo Switch OLED Model",
+    "description": "Enjoy enhanced gaming with the Nintendo Switch OLED featuring a vibrant 7-inch screen, adjustable stand, enhanced audio, and 64GB of internal storage.",
+    "price": 349.99,
+    "image": "https://source.unsplash.com/random/900x600/?nintendo",
+    "category": "Gaming",
+    "rating": 4.8,
+    "stock": 22,
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "description": "Experience next-level cleaning with the Dyson V15 Detect featuring laser dust detection, intelligent suction, and advanced filtration.",
+    "price": 749.99,
+    "image": "https://source.unsplash.com/random/900x600/?vacuum",
+    "category": "Home",
+    "rating": 4.7,
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Herman Miller Aeron Ergonomic Chair",
+    "description": "Invest in your comfort with the iconic Herman Miller Aeron chair, engineered for proper posture and all-day support.",
+    "price": 1495.00,
+    "image": "https://source.unsplash.com/random/900x600/?chair",
+    "category": "Office",
+    "rating": 4.8,
+    "stock": 10,
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "Breville Barista Express Espresso Machine",
+    "description": "Craft cafe-quality espresso at home with the Breville Barista Express. Features integrated conical burr grinder and precise extraction control.",
+    "price": 699.95,
+    "image": "https://source.unsplash.com/random/900x600/?coffee-machine",
+    "category": "Kitchen",
+    "rating": 4.7,
+    "stock": 9,
+    "featured": false
+  }
+]

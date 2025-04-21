@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "admin@123",
+    "role": "admin"
+  },
+  {
+    "id": "6",
+    "name": "Sales Team",
+    "email": "sales@example.com",
+    "role": "user"
+  },
+  {
+    "id": "7",
+    "name": "Rony Patel",
+    "email": "rony@example.com",
+    "role": "user"
+  },
+  {
+    "id": "8",
+    "name": "Hello Support",
+    "email": "hello@example.com",
+    "role": "user"
+  },
+  {
+    "id": "9",
+    "name": "Hello IT",
+    "email": "ITy@example.com",
+    "role": "user"
+  },
+  {
+    "id": "5",
+    "name": "Emily Davis",
+    "email": "emily@example.com",
+    "role": "user"
+  },
+  {
+    "name": "fwefwe",
+    "email": "efewfewfewf@gmail.com",
+    "role": "admin",
+    "id": "1745232484520"
+  }
+]
