@@ -23,7 +23,7 @@ An e-commerce web application built with Next.js, featuring product listings, sh
 ### Prerequisites
 
 - Node.js 18+ 
-- npm or yarn
+- npm
 
 ### Installation
 
@@ -36,15 +36,13 @@ An e-commerce web application built with Next.js, featuring product listings, sh
 2. Install dependencies:
    ```
    npm install
-   # or
-   yarn install
+
    ```
 
 3. Start the development server:
    ```
    npm run dev
-   # or
-   yarn dev
+
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
